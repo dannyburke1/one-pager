@@ -1,10 +1,10 @@
 # One Pager Title
 
 Summary: A pithy summary of the work  
-Author: @jontybale  
-Status: `IN PROGRESS`  
-Shaping participants: List of people involved in planning  
-Desired outcome: Summart of the business outcome and idealy some measaures of success  
+Author: @dannyburke1  
+Status: `IN PROGRESS` | `TO DO` | `DONE` 
+Conerned participants: List of people involved in planning  
+Desired outcome: Summary of the business outcome and ideally some measaures of success  
 
 ## Summary
 
@@ -13,6 +13,12 @@ What is it we want to do, and why?
 ## Technical overview
 
 Include a high level overview of how the problem could be solved.
+
+## Action Items
+
+## Jira Items
+
+## Blockers
  
 ## Background reading
 
