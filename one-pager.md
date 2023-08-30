@@ -3,7 +3,7 @@
 Summary: A pithy summary of the work  
 Author: @dannyburke1  
 Status: `IN PROGRESS` | `TO DO` | `DONE` <br>
-Conerned participants: List of people involved in planning  
+Concerned participants: List of people involved in planning  
 Desired outcome: Summary of the business outcome and ideally some measaures of success  
 
 ## Summary
